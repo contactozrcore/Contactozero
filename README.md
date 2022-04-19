@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Zero
+- 👋 Hi, I’m @Zeeroo
 - 👀 I’m interested in developer of app
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaboration 
